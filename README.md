@@ -1,6 +1,6 @@
 Hey there!
 
-👋 I'm Gampala Sanjana, a B.Tech Computer Science Graduate (2026) and aspiring Software Engineer passionate about building innovative software solutions, web applications, and cloud-based systems.
+I'm Gampala Sanjana, a B.Tech Computer Science Graduate (2026) and aspiring Software Engineer passionate about building innovative software solutions, web applications, and cloud-based systems.
 
 💻 Skilled in Java, Python, Web Development, Git, GitHub, and DevOps fundamentals.
 
