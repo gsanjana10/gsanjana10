@@ -9,7 +9,7 @@ I'm Gampala Sanjana
 
 ## 👩‍💻 About Me
 
-* 🤝 Open to collaboration on open-source projects
+* ⚡ Seeking to collaboration on open-source projects
 * 📚 Continuously improving my coding and problem-solving skills
 * 🤝 Open to internships and full-time opportunities
 
