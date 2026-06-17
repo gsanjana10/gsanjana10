@@ -56,7 +56,7 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 
 ✨ Aspiring Software Engineer and DevOps Enthusiast
 
-✨ Interested in Software Development, Cloud Computing, and Automation
+✨ Interested in Full-Stack Development, Web Developemnt, DevOps, and buidling scalable applications
 
 ✨ Continuously learning modern technologies and building projects
 
