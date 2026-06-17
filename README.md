@@ -1,53 +1,52 @@
 # 👋 Hey there!
 
-I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering Student (2022–2026) with a passion for Software Development, Web Development, and DevOps.
+I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (2026) with a passion for Software Development, Web Development, and DevOps.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💻 TECHNICAL SKILLS
+## 💻 TECHNICAL SKILLS
 
 🔹 Programming Languages
-• Python
-• Java
-• JavaScript
+- Python
+- Java
+- JavaScript
 
 🔹 Web Technologies
-• HTML
-• CSS
-• JavaScript
+- HTML
+- CSS
+- JavaScript
 
 🔹 Database
-• SQL
-• MySQL
+- SQL
+- MySQL
 
 🔹 DevOps & Tools
-• Git
-• GitHub
-• Docker
-• Jenkins
-• AWS
+- Git
+- GitHub
+- Docker
+- Jenkins
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 PROJECTS
+## 🚀 PROJECTS
 
-📚 Online Book Store Website
+### 📚 Online Book Store Website
 
-• Developed a responsive online book store web application.
-• Implemented book browsing and search functionality.
-• Built using HTML, CSS, JavaScript, Node.js, and Express.js.
-• Managed source code using Git and GitHub.
+- Developed a responsive online book store web application.
+- Implemented book browsing and search functionality.
+- Built using HTML, CSS, JavaScript, Node.js, and Express.js.
+- Managed source code using Git and GitHub.
 
-🛒 Product Filter App
+### 🛒 Product Filter App
 
-• Developed a dynamic product filtering application.
-• Implemented search, category filtering, and sorting features.
-• Enabled real-time product filtering for better user experience.
-• Built using HTML, CSS, and JavaScript.
+- Developed a dynamic product filtering application.
+- Implemented search, category filtering, and sorting features.
+- Enabled real-time product filtering for better user experience.
+- Built using HTML, CSS, and JavaScript.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏆 CERTIFICATIONS
+## 🏆 CERTIFICATIONS
 
 🥇 Oracle Cloud Data Management Foundations Associate
 
@@ -57,7 +56,7 @@ I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering Student (2022–2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 ABOUT ME
+## 🌱 ABOUT ME
 
 ✨ Aspiring Software Engineer and DevOps Enthusiast
 
@@ -71,7 +70,7 @@ I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering Student (2022–2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📫 CONNECT WITH ME
+## 📫 CONNECT WITH ME
 
 📧 Email: gsanjana319@gmail.com
 
