@@ -2,7 +2,6 @@
 
 I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (2026) with a passion for Software Development, Web Development, and DevOps.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 💻 TECHNICAL SKILLS
 
@@ -26,7 +25,6 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 - Docker
 - Jenkins
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🚀 PROJECTS
 
@@ -44,7 +42,6 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 - Enabled real-time product filtering for better user experience.
 - Built using HTML, CSS, and JavaScript.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🏆 CERTIFICATIONS
 
@@ -54,7 +51,6 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 
 🥇 Aviatrix Certified Engineer – Multicloud Network Associate
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🌱 ABOUT ME
 
@@ -68,7 +64,6 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 
 ✨ Passionate about solving real-world problems through technology
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📫 CONNECT WITH ME
 
@@ -78,6 +73,5 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 
 🐙 GitHub: https://github.com/gsanjana10
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ Always Learning | Building | Growing 🚀
