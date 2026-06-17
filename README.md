@@ -1,29 +1,84 @@
-Hey there!
+# 👋 Hey there!
 
- I'm Gampala Sanjana, a B.Tech Computer Science Graduate (2026) and aspiring Software Engineer passionate about building innovative software solutions, web         applications, and cloud-based systems.
-  
-💻 Skilled in Java, Python, Web Development, Git, GitHub, and DevOps fundamentals.
+I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering Student (2022–2026) with a passion for Software Development, Web Development, and DevOps.
 
-🚀 Interested in Software Development, Cloud Computing, Automation, and solving real-world problems through technology.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 Continuously learning, building projects, and exploring modern technologies to grow as a software engineer.
+💻 TECHNICAL SKILLS
 
-📫 Reach me at: gsanjana319@gmail.com
+🔹 Programming Languages
+• Python
+• Java
+• JavaScript
 
- 👩‍💻 About Me
+🔹 Web Technologies
+• HTML
+• CSS
+• JavaScript
 
-* ⚡ Seeking to collaboration on open-source projects
-* 📚 Continuously improving my coding and problem-solving skills
-* 🤝 Open to internships and full-time opportunities
+🔹 Database
+• SQL
+• MySQL
 
-  
-🛠️ Skills
+🔹 DevOps & Tools
+• Git
+• GitHub
+• Docker
+• Jenkins
+• AWS
 
-* Python
-* Java
-* HTML, CSS, JavaScript
-* Git & GitHub
-* SQL
-* DevOps 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ Always learning, building, and growing.
+🚀 PROJECTS
+
+📚 Online Book Store Website
+
+• Developed a responsive online book store web application.
+• Implemented book browsing and search functionality.
+• Built using HTML, CSS, JavaScript, Node.js, and Express.js.
+• Managed source code using Git and GitHub.
+
+🛒 Product Filter App
+
+• Developed a dynamic product filtering application.
+• Implemented search, category filtering, and sorting features.
+• Enabled real-time product filtering for better user experience.
+• Built using HTML, CSS, and JavaScript.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 CERTIFICATIONS
+
+🥇 Oracle Cloud Data Management Foundations Associate
+
+🥇 Automation Anywhere Certified Essentials RPA Professional
+
+🥇 Aviatrix Certified Engineer – Multicloud Network Associate
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌱 ABOUT ME
+
+✨ Aspiring Software Engineer and DevOps Enthusiast
+
+✨ Interested in Software Development, Cloud Computing, and Automation
+
+✨ Continuously learning modern technologies and building projects
+
+✨ Open to internships and full-time opportunities
+
+✨ Passionate about solving real-world problems through technology
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 CONNECT WITH ME
+
+📧 Email: gsanjana319@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/gampala-sanjana
+
+🐙 GitHub: https://github.com/gsanjana10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Always Learning | Building | Growing 🚀
