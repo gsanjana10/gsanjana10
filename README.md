@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (2026) with a passion for Software Development, Web Development, and DevOps.
+I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (2026) with a passion for DevOps, Software Development and Web Development.
 
 
 ## 💻 TECHNICAL SKILLS
@@ -8,7 +8,6 @@ I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (20
 🔹 Programming Languages
 - Python
 - Java
-- JavaScript
 
 🔹 Web Technologies
 - HTML
