@@ -234,4 +234,6 @@ A simple and responsive task management application.
 
 🚀 Thanks for visiting my GitHub profile! Happy Coding! 
 
+🤝 Let's connect and build something amazing together!
+
 
