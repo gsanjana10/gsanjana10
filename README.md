@@ -1,77 +1,79 @@
-# 👋 Hey there!
-
-I'm **Gampala Sanjana**, Recent B.Tech Computer Science Engineering Graduate (2026) with a passion for DevOps, Software Development and Web Development.
 
 
-## 💻 TECHNICAL SKILLS
+# 👩‍💻 About Me
 
-🔹 Programming Languages
-- Python
-- Java
+Hi there! 👋
 
-🔹 Web Technologies
-- HTML
-- CSS
-- JavaScript
+I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) specializing in **DevOps**.
 
-🔹 Database
-- SQL
-- MySQL
+I enjoy building CI/CD pipelines, containerizing applications using Docker, automating deployments with Jenkins and GitHub Actions, and working with Kubernetes, Terraform, AWS, and Linux.
 
-🔹 DevOps & Tools
-- Git
-- GitHub
-- Docker
-- Jenkins
+I'm passionate about Infrastructure Automation, Cloud Computing, and continuously improving software delivery processes.
 
+---
 
-## 🚀 PROJECTS
+# 💼 Looking For
 
-### 📚 Online Book Store Website
+✔ DevOps Engineer
 
-- Developed a responsive online book store web application.
-- Implemented book browsing and search functionality.
-- Built using HTML, CSS, JavaScript, Node.js, and Express.js.
-- Managed source code using Git and GitHub.
+✔ Software Engineer
 
-### 🛒 Product Filter App
+---
 
-- Developed a dynamic product filtering application.
-- Implemented search, category filtering, and sorting features.
-- Enabled real-time product filtering for better user experience.
-- Built using HTML, CSS, and JavaScript.
+# 🛠 Tech Arsenal
 
+## 💻 Programming Languages
 
-## 🏆 CERTIFICATIONS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🥇 Oracle Cloud Data Management Foundations Associate
+---
 
-🥇 Automation Anywhere Certified Essentials RPA Professional
+## 🌐 Web Development
 
-🥇 Aviatrix Certified Engineer – Multicloud Network Associate
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌱 ABOUT ME
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-✨ Aspiring Software Engineer and DevOps Enthusiast
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-✨ Interested in Full-Stack Development, Web Developemnt, DevOps, and buidling scalable applications
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-✨ Continuously learning modern technologies and building projects
+---
 
-✨ Open to internships and full-time opportunities
+## 🗄 Database
 
-✨ Passionate about solving real-world problems through technology
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-## 📫 CONNECT WITH ME
+---
 
-📧 Email: gsanjana319@gmail.com
+## ☁️ DevOps & Cloud
 
-💼 LinkedIn: www.linkedin.com/in/gampala-sanjana
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🐙 GitHub: https://github.com/gsanjana10
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-⭐ Always Learning | Building | Growing 🚀
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
