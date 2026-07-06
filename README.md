@@ -228,7 +228,7 @@ A simple and responsive task management application.
 
 ---
 
-💼 Open to DevOps Internships & Full-Time Opportunities | Immediate Joiner 
+💼 Open to Internships & Full-Time Opportunities | Immediate Joiner 
 
 ⭐ Always learning. Always building. Always improving.
 
