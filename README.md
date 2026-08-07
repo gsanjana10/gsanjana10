@@ -222,7 +222,7 @@ A simple and responsive task management application.
 
 💼 **LinkedIn:** https://linkedin.com/in/gampala-sanjana
 
-🌐 **Portfolio:** https://gsanjanaportfolio.lovable.app
+🌐 **Portfolio:** https://gsanjanaportfolio.lovable.app/
 
 💻 **GitHub:** https://github.com/gsanjana10
 
