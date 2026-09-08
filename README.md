@@ -4,9 +4,10 @@
 
 Hi there! 👋
 
-I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) with a strong foundation in Software Engineering, Full Stack Development, DevOps, Cloud Computing, Networking, and IT Infrastructure.
+I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) with a strong foundation in **Software Engineering, Full Stack Development, DevOps, Cloud Computing, Networking, and IT Infrastructure**.
 
-I have gained hands-on experience through internships and projects involving software development, web application development, CI/CD, cloud technologies, automation, databases, containerization, and version control.
+I have gained hands-on experience through internships and projects involving **software development, web application development, CI/CD, cloud technologies, automation, databases, containerization, and version control**.
+
 ---
 
 # 💼 Looking For
