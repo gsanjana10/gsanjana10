@@ -4,22 +4,20 @@
 
 Hi there! 👋
 
-I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) specializing in **DevOps**.
+I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) with a strong foundation in Software Engineering, Full Stack Development, DevOps, Cloud Computing, Networking, and IT Infrastructure.
 
-I enjoy building CI/CD pipelines, containerizing applications with Docker, automating deployments using Jenkins and GitHub Actions, and working with Kubernetes, Terraform, AWS, and Linux.
-
-I'm passionate about Infrastructure Automation, Cloud Computing, and continuously improving software delivery through modern DevOps practices. I'm always eager to learn new technologies and build real-world projects.
-
+I have gained hands-on experience through internships and projects involving software development, web application development, CI/CD, cloud technologies, automation, databases, containerization, and version control.
 ---
 
 # 💼 Looking For
 
-✔ DevOps Internship
+✔ Software Engineer / Software Developer
 
-✔ DevOps Engineer
+✔ Full Stack / Backend Developer
 
-✔ Software Engineer
+✔ DevOps Engineer / DevOps Internship
 
+✔ Cloud Engineer / Cloud Computing Roles
 ---
 
 # 🛠 Tech Arsenal
