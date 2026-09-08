@@ -16,9 +16,8 @@ I have gained hands-on experience through internships and projects involving **s
 
 ✔ Full Stack / Backend Developer
 
-✔ DevOps Engineer / DevOps Internship
+✔ DevOps Engineer / Cloud Computing Roles
 
-✔ Cloud Engineer / Cloud Computing Roles
 ---
 
 # 🛠 Tech Arsenal
