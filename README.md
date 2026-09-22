@@ -4,9 +4,13 @@
 
 Hi there! 👋
 
-I'm **Gampala Sanjana**, a B.Tech Computer Science Engineering graduate (2026) with a strong foundation in **Software Engineering, Full Stack Development, DevOps, Cloud Computing, Networking, and IT Infrastructure**.
+Computer Science Engineering graduate and aspiring Software Engineer passionate about building practical and scalable software solutions.
 
-I have gained hands-on experience through internships and projects involving **software development, web application development, CI/CD, cloud technologies, automation, databases, containerization, and version control**.
+I have a strong foundation in Full Stack Development, Frontend Development, Backend Development, and DevOps, with knowledge of Java, Python, JavaScript, Spring Boot, Node.js, Flask, SQL, HTML, CSS, React.js, Git, GitHub, Docker, Jenkins, GitHub Actions, and CI/CD.
+
+Through academic and personal projects, I have developed web applications, REST APIs, frontend and backend integrations, database-driven applications, containerized applications, and automated development and deployment workflows.
+
+I am actively seeking entry-level opportunities as a Software Engineer, Software Developer, Frontend Engineer, Backend Engineer, Full Stack Developer, or DevOps Engineer, where I can apply my technical skills, continue learning, and contribute to real-world software solutions.
 
 ---
 
