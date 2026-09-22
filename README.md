@@ -10,7 +10,7 @@ I have a strong foundation in Software Development, Full Stack Development, Fron
 
 Through academic and personal projects, I have worked on web applications, REST APIs, frontend and backend integration, database-driven applications, containerized applications, and automated development and deployment workflows.
 
-**I'm currently looking for entry-level opportunities where I can apply my technical skills, continue learning, and contribute to real-world software solutions.**
+I'm currently looking for entry-level opportunities where I can apply my technical skills, continue learning, and contribute to real-world software solutions.
 ---
 
 # 💼 Looking For
