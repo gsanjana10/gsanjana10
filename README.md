@@ -16,9 +16,9 @@ I'm currently looking for entry-level opportunities where I can apply my technic
 
 ✔ Software Engineer / Software Developer
 
-✔ Full Stack / Backend Developer
+✔ Frontend Developer / Backend Developer
 
-✔ DevOps Engineer / Cloud Computing Roles
+✔ Full Stack Developer / DevOps Engineer
 
 ---
 
