@@ -8,7 +8,7 @@ I'm a Computer Science Engineering graduate and aspiring Software Engineer passi
 
 I have a strong foundation in Software Development, Full Stack Development, Frontend Development, Backend Development, and DevOps. My technical skills include Java, Python, JavaScript, Spring Boot, Node.js, Flask, SQL, HTML, CSS, React.js, Git, GitHub, Docker, Jenkins, GitHub Actions, and CI/CD.
 
-Through academic and personal projects, I have worked on web applications, REST APIs, frontend and backend integration, database-driven applications, containerized applications, and automated development and deployment workflows.
+I have worked on web applications, REST APIs, frontend and backend integration, database-driven applications, containerized applications, and automated development and deployment workflows.
 
 I'm currently looking for entry-level opportunities where I can apply my technical skills, continue learning, and contribute to real-world software solutions.
 
