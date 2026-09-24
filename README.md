@@ -2,12 +2,6 @@
 
 # 👩‍💻 About Me
 
-👋 Hi there!
----
-I'm a Computer Science Engineering Graduate (2026) and an aspiring Software Engineer & Full Stack Developer passionate about building practical, scalable, and user-focused applications.
-
-# 👋 About Me:
-
 🎓 Computer Science Engineering Graduate (2026)  
 💻 Aspiring Software Engineer & Full Stack Developer  
 🌐 Passionate about Full Stack Development, Frontend & Backend Development  
