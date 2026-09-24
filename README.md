@@ -2,16 +2,21 @@
 
 # 👩‍💻 About Me
 
-Hi there! 👋
+👋 Hi there!
 
-I'm a Computer Science Engineering graduate and aspiring Software Engineer passionate about building practical and scalable software solutions.
+I'm a Computer Science Engineering Graduate (2026) and an aspiring Software Engineer & Full Stack Developer passionate about building practical, scalable, and user-focused applications.
 
-I have a strong foundation in Software Development, Full Stack Development, Frontend Development, Backend Development, and DevOps. My technical skills include Java, Python, JavaScript, Spring Boot, Node.js, Flask, SQL, HTML, CSS, React.js, Git, GitHub, Docker, Jenkins, GitHub Actions, and CI/CD.
+🚀 About Me
 
-I have worked on web applications, REST APIs, frontend and backend integration, database-driven applications, containerized applications, and automated development and deployment workflows.
+🎓 Computer Science Engineering Graduate
+💻 Aspiring Software Engineer & Full Stack Developer
+🌐 Interested in Full Stack Development, Frontend Development, Backend Development, DevOps, and Cloud Technologies
+☕ Skilled in Java, Python, JavaScript, Spring Boot, React.js, Node.js, Flask, and SQL
+🛠️ Experienced in building web applications, REST APIs, database-driven applications, and full stack projects
+🐳 Familiar with Git, GitHub, Docker, Jenkins, GitHub Actions, Kubernetes, and CI/CD
+🌱 Continuously learning and improving my Software Development, Full Stack, and DevOps skills through real-world projects
 
-I'm currently looking for entry-level opportunities where I can apply my technical skills, continue learning, and contribute to real-world software solutions.
-
+---
 # 💼 Looking For
 
 ✔ Software Engineer / Software Developer
