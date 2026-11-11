@@ -102,6 +102,8 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 ---
 
 ## 🤖 Generative AI Tools
@@ -110,6 +112,8 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+
 ----
 
 ## 🎓 Education
@@ -120,7 +124,10 @@
 📅 **2022 – 2026**  
 📊 **CGPA:** 8.49 / 10
 
+
 ---
+
+
 # 🤝 Connect With Me
 
 📧 **Email:** gsanjana319@gmail.com
