@@ -111,9 +111,10 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ----
-# 🎓 Education
 
-# 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
+## 🎓 Education
+
+### 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
 **Koneru Lakshmaiah University (KL University)**
 
 📅 **2022 – 2026**  
