@@ -13,15 +13,6 @@
 - 🎯 Open to Software Engineering and DevOps Opportunities
 
 ---
-# 💼 Looking For
-
-✔ Software Engineer / Software Developer
-
-✔ Frontend Developer / Backend Developer
-
-✔ Full Stack Developer / DevOps Engineer
-
----
 
 # 🛠 Tech Arsenal
 
@@ -122,7 +113,7 @@
 ----
 # 🎓 Education
 
-### 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
+# 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
 **Koneru Lakshmaiah University (KL University)**
 
 📅 **2022 – 2026**  
