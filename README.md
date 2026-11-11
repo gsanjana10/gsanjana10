@@ -2,13 +2,15 @@
 
 # 👩‍💻 About Me
 
-🎓 Computer Science Engineering Graduate (2026)  
-💻 Aspiring Software Engineer & Full Stack Developer  
-🌐 Passionate about Full Stack Development, Frontend & Backend Development  
-🛠️ Skilled in Java, Python, JavaScript, React.js, Spring Boot, Node.js, Flask & SQL  
-☁️ Familiar with Git, GitHub, Docker, Jenkins, Kubernetes & CI/CD  
-🚀 Building practical web applications, REST APIs & database-driven projects  
-🌱 Currently learning and strengthening my Full Stack, DevOps & Cloud skills  
+🎓 Computer Science Engineering Graduate (2026)
+💻 Aspiring Software Engineer
+🌐 Interested in Full Stack Development and DevOps Engineering
+🛠️ Skilled in Java, Python, JavaScript, React.js, Spring Boot, Node.js, Flask & SQL
+⚙️ Familiar with Frontend Development, Backend Development, REST APIs & Database Management
+☁️ Knowledge of Git, GitHub, Docker, Jenkins, Kubernetes & CI/CD
+🚀 Passionate about building scalable applications and exploring modern software technologies
+🌱 Continuously learning and enhancing my skills in Software Engineering, Full Stack Development, DevOps & Cloud Technologies
+🎯 Open to Software Engineering and DevOps Opportunities  
 
 ---
 # 💼 Looking For
