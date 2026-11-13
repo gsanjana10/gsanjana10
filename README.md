@@ -9,8 +9,7 @@
 - ⚙️ Interested in Frontend Development, Backend Development, REST APIs and Database Management
 - ☁️ Familiar with Git, GitHub, Docker, Jenkins, Kubernetes and CI/CD
 - 🚀 Passionate about building scalable applications and developing efficient software solutions
-- 🌱 Continuously learning Full Stack Development, DevOps and Cloud Technologies
-- 🎯 Open to Software Engineering and DevOps Opportunities
+- 🎯  Open to Software Engineering and DevOps Opportunities
 
 ---
 
