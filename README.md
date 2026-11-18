@@ -110,11 +110,11 @@
 
 ## 🎓 Education
 
-### 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
-**Koneru Lakshmaiah University (KL University)**
+### **Koneru Lakshmaiah University (KL University)**
+🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
 
 📅 **2022 – 2026**  
-📊 **CGPA:** 8.49 / 10
+📊 **CGPA:** 8.47 / 10
 
 
 ---
