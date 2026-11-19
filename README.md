@@ -8,7 +8,7 @@
 - ⚙️ Experienced in Frontend Development, Backend REST APIs, and Database Management (MySQL, MongoDB, SQL)
 - ☁️ Familiar with Git, GitHub, Docker, Kubernetes, Jenkins, CI/CD, AWS, and Linux
 - 🚀 Passionate about building scalable, secure, and maintainable software solutions
-- 🎯 Open to Software Engineering, Full-Stack Developer Roles 
+- 🎯 Open to Software Engineering, Full-Stack Developer Roles
 
 
 
@@ -91,8 +91,9 @@
 ## 🧰 Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 
 
 ---
