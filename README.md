@@ -4,14 +4,13 @@
 
 - 🎓 Computer Science Engineering Graduate (2026)
 - 💻 Aspiring Software Engineer
-- 🌐 Interested in Full Stack Development and DevOps Engineering
-- 🛠️ Skilled in Java, Python, JavaScript, React.js, Spring Boot, Node.js, Angular and SQL
-- ⚙️ Interested in Frontend Development, Backend Development, REST APIs and Database Management
-- ☁️ Familiar with Git, GitHub, Docker, Jenkins, Kubernetes and CI/CD
-- 🚀 Passionate about building scalable applications and developing efficient software solutions
-- 🎯  Open to Software Engineering and DevOps Opportunities
+- 🛠️ Skilled in Java, Python, C, JavaScript, TypeScript, React.js, Angular, Spring Boot, Node.js, and Express.js
+- ⚙️ Experienced in Frontend Development, Backend REST APIs, and Database Management (MySQL, MongoDB, SQL)
+- ☁️ Familiar with Git, GitHub, Docker, Kubernetes, Jenkins, CI/CD, AWS, and Linux
+- 🚀 Passionate about building scalable, secure, and maintainable software solutions
+- 🎯 Open to Software Engineering, Full-Stack Developer Roles 
 
----
+
 
 # 🛠 Tech Arsenal
 
